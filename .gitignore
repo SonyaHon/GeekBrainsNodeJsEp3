@@ -1,0 +1,4 @@
+node_modules/
+.vs_code/
+example1/*.log
+example4/*.log

@@ -1,0 +1,18 @@
+{
+  "name": "gb_nodejs_ep_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example1": "node src/example1/example1.js",
+    "example2": "node src/example2/example2.js",
+    "example3": "node src/example3/example3.js",
+    "example3mem": "node --initial-heap-size=6 --max-heap-size=6 ./src/example3/example3.js",
+    "example4": "node src/example4/example4.js",
+    "example5": "node src/example5/example5.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
